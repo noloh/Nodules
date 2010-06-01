@@ -13,3 +13,6 @@
 [submodule "GoogleAnalytics"]
 	path = GoogleAnalytics
 	url = git://github.com/noloh/GoogleAnalytics.git
+[submodule "NOLOHBadge"]
+	path = NOLOHBadge
+	url = git://github.com/noloh/NOLOHBadge.git
