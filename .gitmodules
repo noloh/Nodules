@@ -7,3 +7,6 @@
 [submodule "EmailHelper"]
 	path = EmailHelper
 	url = git://github.com/noloh/EmailHelper.git
+[submodule "NavHandler"]
+	path = NavHandler
+	url = git://github.com/noloh/NavHandler.git
