@@ -10,3 +10,6 @@
 [submodule "NavHandler"]
 	path = NavHandler
 	url = git://github.com/noloh/NavHandler.git
+[submodule "GoogleAnalytics"]
+	path = GoogleAnalytics
+	url = git://github.com/noloh/GoogleAnalytics.git
