@@ -1,3 +1,6 @@
 [submodule "CKEditor"]
 	path = CKEditor
 	url = git://github.com/noloh/CKEditor.git
+[submodule "SyntaxHighlighter"]
+	path = SyntaxHighlighter
+	url = git://github.com/noloh/SyntaxHighlighter.git
