@@ -1,0 +1,3 @@
+[submodule "CKEditor"]
+	path = CKEditor
+	url = git://github.com/noloh/CKEditor.git
