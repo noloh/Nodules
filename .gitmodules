@@ -4,3 +4,6 @@
 [submodule "SyntaxHighlighter"]
 	path = SyntaxHighlighter
 	url = git://github.com/noloh/SyntaxHighlighter.git
+[submodule "EmailHelper"]
+	path = EmailHelper
+	url = git://github.com/noloh/EmailHelper.git
